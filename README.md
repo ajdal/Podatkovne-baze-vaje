@@ -1,2 +1,2 @@
-# Podatkovne-baze-vaje
+# PB1 vaje
 Zapiski z vaj pri PB1
